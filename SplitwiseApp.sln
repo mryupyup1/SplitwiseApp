@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration", "Registration\Registration.csproj", "{AF1B72EF-CA7E-4DDC-AE63-1E2F02DE7018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateGroup", "CreateGroup\CreateGroup.csproj", "{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{AF1B72EF-CA7E-4DDC-AE63-1E2F02DE7018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF1B72EF-CA7E-4DDC-AE63-1E2F02DE7018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF1B72EF-CA7E-4DDC-AE63-1E2F02DE7018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AF1B72EF-CA7E-4DDC-AE63-1E2F02DE7018} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5ADE9CCB-CA6C-4BE7-9B24-3518F6AFCB7B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0A3F70E-B178-4B1D-BB47-AA8DC5F2412B}

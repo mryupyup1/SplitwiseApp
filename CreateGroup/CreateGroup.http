@@ -1,0 +1,6 @@
+@CreateGroup_HostAddress = http://localhost:5015
+
+GET {{CreateGroup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
